@@ -10,8 +10,8 @@ ERD ini dirancang untuk merepresentasikan hubungan antara entitas utama dalam si
 - **Resep Obat** → Obat yang diresepkan dokter kepada pasien, termasuk informasi mengenai manfaat dan efek sampingnya.
 
 ## 📂 File yang Tersedia
-- **`ERD_Medical_System.png`** → Diagram ERD utama dalam format gambar.
-- **`HealthOne_Medical_DD_Project.pdf`** → Dokumen berisi spesifikasi proyek.
+- **`[ERD Diagram](ERD_Medical_System.png)`** → Diagram ERD utama dalam format gambar.
+- **`[Dokumentasi Proyek](HealthOne_Medical_DD_Project.pdf)`** → Dokumen berisi spesifikasi proyek.
 
 ## 🛠 Teknologi yang Digunakan  
 - **Oracle SQL Developer Data Modeler** untuk pembuatan desain Entity Relationship Diagram (ERD)
