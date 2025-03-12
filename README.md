@@ -1,1 +1,1 @@
-# oracle-data-modeling-medical-database
+# Oracle-Data-Modeling-Medical-Database
