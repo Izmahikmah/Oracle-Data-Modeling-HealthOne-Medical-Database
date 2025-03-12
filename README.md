@@ -1,14 +1,13 @@
-# Oracle Data Modeling - HealthOne Medical Database
-
-# 📌 Entity Relationship Diagram (ERD) - Healthcare System
-Proyek ini berisi desain **Entity Relationship Diagram (ERD)** untuk sistem manajemen kesehatan, termasuk dokter, pasien, rumah sakit, dan resep obat.
+# 📌 Oracle Data Modeling - HealthOne Medical Database
+Proyek ini merupakan desain **Entity Relationship Diagram (ERD)** dan model database untuk HealthOne Medical Database, sebuah sistem manajemen klaim kesehatan untuk perusahaan asuransi medis skala menengah. Database ini tidak hanya menyimpan data klaim kesehatan, tetapi juga dapat digunakan untuk analisis tren dan model prediktif berdasarkan data yang terkumpul.
 
 ## 📊 Deskripsi Proyek
 ERD ini dirancang untuk merepresentasikan hubungan antara entitas utama dalam sistem layanan kesehatan, yang mencakup:
-- **HOSPITAL**: Menyimpan informasi tentang rumah sakit.
-- **DOCTOR**: Menyimpan data dokter yang berpraktik.
-- **PATIENT**: Menyimpan informasi pasien.
-- **PRESCRIPTION**: Menyimpan informasi resep obat yang diberikan dokter kepada pasien.
+- **Pasien** → Data pribadi, kontak, dokter utama, serta informasi asuransi mereka.
+- **Dokter** → Spesialisasi, rumah sakit afiliasi, serta detail kontak.
+- **Rumah Sakit** → Lokasi dan informasi kontak rumah sakit yang bekerja sama dengan dokter.
+- **Kunjungan Pasien** → Riwayat kunjungan ke dokter, gejala yang dikeluhkan, dan diagnosis awal.
+- **Resep Obat** → Obat yang diresepkan dokter kepada pasien, termasuk informasi mengenai manfaat dan efek sampingnya.
 
 ## 📸 Entity Relationship Diagram
 Berikut adalah ERD yang menggambarkan hubungan antara entitas dalam sistem:
