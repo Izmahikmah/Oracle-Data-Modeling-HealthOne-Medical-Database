@@ -14,7 +14,7 @@ ERD ini dirancang untuk merepresentasikan hubungan antara entitas utama dalam si
 - **`HealthOne_Medical_DD_Project.pdf`** → Dokumen berisi spesifikasi proyek.
 
 ## 🛠 Teknologi yang Digunakan  
-- **Oracle SQL Developer Data Modeler** untuk perancangan database dan pembuatan ERD
+- **Oracle SQL Developer Data Modeler** untuk pembuatan desain Entity Relationship Diagram (ERD)
 - **GitHub** untuk dokumentasi proyek
 
 ## 📸 Entity Relationship Diagram
